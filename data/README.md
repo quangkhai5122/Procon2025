@@ -1,0 +1,1 @@
+Link to data: https://universe.roboflow.com/cw/garbage-jfj45
