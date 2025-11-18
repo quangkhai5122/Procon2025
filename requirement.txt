@@ -1,0 +1,12 @@
+matplotlib==3.10.7
+numpy==1.26.4
+opencv-python
+pandas==2.3.3
+pprint
+pycocotools
+scikit-learn==1.6.1
+tensorboard==2.20.0
+torch==2.7.1
+torchaudio==2.7.1
+torchvision==0.22.1
+tqdm==4.67.1
